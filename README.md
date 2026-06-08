@@ -2,7 +2,7 @@
 
 WeatherWizard is a sleek Java Swing desktop app providing real-time worldwide weather tracking. Integrating a live API, it lets users instantly search cities for current temperatures, humidity, and wind speeds. Featuring dynamic visuals that update with the weather and a clean architecture, it showcases practical GUI development in Java.
 
----
+
 
 ## 🚀 Key Features
 
@@ -11,7 +11,7 @@ WeatherWizard is a sleek Java Swing desktop app providing real-time worldwide we
 * **Network Resilience:** Smart error handling to manage connectivity issues or invalid city searches smoothly.
 * **Modular Design:** Follows standard desktop application architecture for clean, readable code.
 
----
+
 
 ## 🛠️ Built With
 
